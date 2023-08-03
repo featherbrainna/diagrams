@@ -1,20 +1,140 @@
-<mxfile host="app.diagrams.net" modified="2023-08-03T10:05:26.210Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="qFId_9HMUpjQPyDygt24" version="21.6.5" type="github">
+<mxfile host="app.diagrams.net" modified="2023-08-03T10:32:30.372Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/115.0.0.0 Safari/537.36" etag="udVlXjWnhnhSxtfbcGEs" version="21.6.5" type="github">
   <diagram name="第 1 页" id="ynztJgXTPEqv3-wshJ-R">
     <mxGraphModel dx="1050" dy="542" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Gu3ie2W1TwAabJY_aTHf-1" value="PropertyParser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="280" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="300" y="80" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-11" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gu3ie2W1TwAabJY_aTHf-1">
+          <mxGeometry x="45" y="140" width="10" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Gu3ie2W1TwAabJY_aTHf-2" value="GenericTokenParser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="440" y="80" width="130" height="300" as="geometry" />
+          <mxGeometry x="480" y="80" width="130" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-16" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gu3ie2W1TwAabJY_aTHf-2">
+          <mxGeometry x="60" y="280" width="10" height="170" as="geometry" />
         </mxCell>
         <mxCell id="Gu3ie2W1TwAabJY_aTHf-3" value="VariableTokenHandler" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="620" y="80" width="130" height="300" as="geometry" />
+          <mxGeometry x="680" y="80" width="130" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-20" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gu3ie2W1TwAabJY_aTHf-3">
+          <mxGeometry x="60" y="350" width="10" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Gu3ie2W1TwAabJY_aTHf-4" value="XPathParser" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
-          <mxGeometry x="120" y="80" width="100" height="300" as="geometry" />
+          <mxGeometry x="120" y="80" width="100" height="500" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-5" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;outlineConnect=0;targetShapes=umlLifeline;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="Gu3ie2W1TwAabJY_aTHf-4">
+          <mxGeometry x="45" y="80" width="10" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-6" value="" style="html=1;verticalAlign=bottom;startArrow=oval;endArrow=block;startSize=8;edgeStyle=elbowEdgeStyle;elbow=vertical;curved=0;rounded=0;" edge="1" target="Gu3ie2W1TwAabJY_aTHf-5" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="170" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-14" value="evalString" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-6">
+          <mxGeometry x="-0.0829" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-7" value="解析xml文档，基于xpath表达式查找String类型的数据" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="130" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-12" value="" style="endArrow=blockThin;endFill=1;endSize=6;html=1;rounded=0;exitX=0.5;exitY=0.875;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="170" y="230" as="sourcePoint" />
+            <mxPoint x="345" y="230" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-13" value="parse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-15" value="解析string字符串中的属性占位符（controller层接收原始字符串）&lt;br&gt;1.封装属性占位符处理器（dao层，底层处理占位符字符串）&lt;br&gt;2.创建GenericTokenParser解析器（service层，实现构建解析后字符串）&lt;br&gt;3.委托给GenericTokenParser处理" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="220" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-17" value="" style="endArrow=blockThin;endFill=1;endSize=6;html=1;rounded=0;" edge="1" parent="1" target="Gu3ie2W1TwAabJY_aTHf-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="350" y="370" as="sourcePoint" />
+            <mxPoint x="510" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-18" value="parse" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-17">
+          <mxGeometry x="-0.0442" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-19" value="解析处理含openToken和closeToken的字符串&lt;br&gt;1.构建解析后字符串&lt;br&gt;2.核心业务逻辑定义了解析的流程" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="360" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-21" value="" style="endArrow=blockThin;endFill=1;endSize=6;html=1;rounded=0;" edge="1" parent="1" target="Gu3ie2W1TwAabJY_aTHf-20">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="440" as="sourcePoint" />
+            <mxPoint x="710" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-22" value="handleToken" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-21">
+          <mxGeometry x="-0.0232" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-23" value="底层处理占位符部分字符串的替换解析" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="760" y="430" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-24" value="" style="endArrow=blockThin;endFill=1;endSize=6;html=1;rounded=0;dashed=1;" edge="1" parent="1" source="Gu3ie2W1TwAabJY_aTHf-20" target="Gu3ie2W1TwAabJY_aTHf-16">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="699" y="500" as="sourcePoint" />
+            <mxPoint x="584.5" y="500" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="604.5" y="500" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-25" value="返回解析后的占位符string" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-24">
+          <mxGeometry x="0.0232" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-26" value="" style="endArrow=blockThin;endFill=1;endSize=6;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="540" y="520" as="sourcePoint" />
+            <mxPoint x="355" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="409.5" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-28" value="返回string" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-26">
+          <mxGeometry x="0.0758" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-29" value="" style="endArrow=blockThin;endFill=1;endSize=6;html=1;rounded=0;dashed=1;exitX=0.5;exitY=0.968;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Gu3ie2W1TwAabJY_aTHf-11">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="340" y="520" as="sourcePoint" />
+            <mxPoint x="175" y="520" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="229.5" y="520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-30" value="返回string" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-29">
+          <mxGeometry x="0.0758" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-31" value="" style="endArrow=oval;endFill=1;endSize=6;html=1;rounded=0;" edge="1" parent="1" source="Gu3ie2W1TwAabJY_aTHf-5">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="160" y="520" as="sourcePoint" />
+            <mxPoint x="40" y="520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Gu3ie2W1TwAabJY_aTHf-32" value="返回string" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Gu3ie2W1TwAabJY_aTHf-31">
+          <mxGeometry x="0.0464" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
